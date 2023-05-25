@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+.font{font-family: 'Noto Sans JP', sans-serif;}
+@tailwind utilities;
+
+
+
